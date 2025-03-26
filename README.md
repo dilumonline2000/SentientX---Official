@@ -1,2 +1,2 @@
 # SentientX---Official
-Ai-Career-Coach---Official ITPM - Y3S1 Project
+Ai-Career-Coach- ITPM - Y3S1 Project
